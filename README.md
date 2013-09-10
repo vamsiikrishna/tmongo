@@ -12,10 +12,10 @@ You need
 - MongoDB
 
 You can clone the source from and compile using maven: 
-    http://github.com/xetorthio/jedis/downloads
+
 
 ```shell
-git clone http://
+git clone https://github.com/vamsiikrishna/tmongo.git
 ```
 Edit App.java and change the credentials to match that of yours.
 
